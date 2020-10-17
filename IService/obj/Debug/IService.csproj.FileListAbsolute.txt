@@ -1,0 +1,5 @@
+D:\Deleting\src\CoreConsoleApp1\IService\bin\Debug\IService.dll
+D:\Deleting\src\CoreConsoleApp1\IService\bin\Debug\IService.pdb
+D:\Deleting\src\CoreConsoleApp1\IService\obj\Debug\IService.csproj.CoreCompileInputs.cache
+D:\Deleting\src\CoreConsoleApp1\IService\obj\Debug\IService.dll
+D:\Deleting\src\CoreConsoleApp1\IService\obj\Debug\IService.pdb

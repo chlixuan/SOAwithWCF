@@ -1,0 +1,9 @@
+D:\Deleting\src\CoreConsoleApp1\Service\bin\Debug\Service.dll
+D:\Deleting\src\CoreConsoleApp1\Service\bin\Debug\Service.pdb
+D:\Deleting\src\CoreConsoleApp1\Service\bin\Debug\IService.dll
+D:\Deleting\src\CoreConsoleApp1\Service\bin\Debug\IService.pdb
+D:\Deleting\src\CoreConsoleApp1\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\Deleting\src\CoreConsoleApp1\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Deleting\src\CoreConsoleApp1\Service\obj\Debug\Service.csproj.CopyComplete
+D:\Deleting\src\CoreConsoleApp1\Service\obj\Debug\Service.dll
+D:\Deleting\src\CoreConsoleApp1\Service\obj\Debug\Service.pdb

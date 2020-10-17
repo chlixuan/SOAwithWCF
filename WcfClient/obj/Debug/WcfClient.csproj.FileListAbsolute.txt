@@ -1,0 +1,7 @@
+D:\Deleting\src\CoreConsoleApp1\WcfClient\bin\Debug\WcfClient.exe.config
+D:\Deleting\src\CoreConsoleApp1\WcfClient\bin\Debug\WcfClient.exe
+D:\Deleting\src\CoreConsoleApp1\WcfClient\bin\Debug\WcfClient.pdb
+D:\Deleting\src\CoreConsoleApp1\WcfClient\obj\Debug\WcfClient.csprojAssemblyReference.cache
+D:\Deleting\src\CoreConsoleApp1\WcfClient\obj\Debug\WcfClient.csproj.CoreCompileInputs.cache
+D:\Deleting\src\CoreConsoleApp1\WcfClient\obj\Debug\WcfClient.exe
+D:\Deleting\src\CoreConsoleApp1\WcfClient\obj\Debug\WcfClient.pdb

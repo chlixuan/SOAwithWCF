@@ -1,0 +1,12 @@
+D:\Deleting\src\CoreConsoleApp1\WcfService1\bin\WcfService1.dll.config
+D:\Deleting\src\CoreConsoleApp1\WcfService1\bin\WcfService1.dll
+D:\Deleting\src\CoreConsoleApp1\WcfService1\bin\WcfService1.pdb
+D:\Deleting\src\CoreConsoleApp1\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+D:\Deleting\src\CoreConsoleApp1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+D:\Deleting\src\CoreConsoleApp1\WcfService1\obj\Debug\WcfService1.dll
+D:\Deleting\src\CoreConsoleApp1\WcfService1\obj\Debug\WcfService1.pdb
+D:\Deleting\src\CoreConsoleApp1\WcfService1\bin\Service.dll
+D:\Deleting\src\CoreConsoleApp1\WcfService1\bin\IService.dll
+D:\Deleting\src\CoreConsoleApp1\WcfService1\bin\Service.pdb
+D:\Deleting\src\CoreConsoleApp1\WcfService1\bin\IService.pdb
+D:\Deleting\src\CoreConsoleApp1\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
